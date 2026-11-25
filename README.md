@@ -1,8 +1,8 @@
 # Anand Indukuri
 
-I'm a Computer Science and Data Science student at UW Madison, graduating in May 2029. I build machine learning and AI software.
+I'm a Computer Science and Data Science student at UW-Madison, graduating in May 2029. I build machine learning and AI software.
 
-**Now:** I work on object detection with Wisconsin Autonomous, UW Madison's autonomous vehicle team. I'm also the Cloud Engineering Lead at Agentic AI UW, a student organization.
+**Now:** I work on object detection with Wisconsin Autonomous, UW-Madison's autonomous vehicle team. I'm also the Cloud Engineering Lead at Agentic AI UW, a student organization.
 
 **Looking for:** Summer 2027 internships in machine learning, applied AI or software engineering.
 
@@ -14,7 +14,7 @@ I'm a Computer Science and Data Science student at UW Madison, graduating in May
 - **[Data Dyepack](https://github.com/Durovo51/Data-Dye-Pack)**: a dye pack for customer data. When an intruder or an AI agent opens a bait file, every real customer file on the drive locks (about half a second in our demo). 4th place overall at MadHacks 2026, team of three. I built the Python engine behind the traps, the lock and the alerts, plus its 188 automated tests and CI. [Devpost](https://devpost.com/software/data-dyepack) · [My commits](https://github.com/Durovo51/Data-Dye-Pack/commits/main/?author=anandindukuri-hub)
 - **[Car path from stereo video](https://github.com/anandindukuri-hub/ego-trajectory-bev)**: rebuilds a car's path from 10 seconds of stereo video with one labeled traffic light as its only landmark. Stereo visual odometry supplies the heading: leaving it out shifts the path by 6.2 m on average. My answer to the take home challenge for Wisconsin Autonomous perception applicants.
 - **[Ayara](https://github.com/anandindukuri-hub/ayara_repository)**: forecasts Indian inflation by spending category with 15 ARIMA models. [Live app](https://ayara1.streamlit.app) · [White paper](https://github.com/anandindukuri-hub/ayara_repository/blob/main/docs/whitepaper.md)
-- **ChalkPal**: a math whiteboard for live classes, made by a team of three. I built its PDF textbook library: say "problem 3.2" and that exact problem lands on the board. My changes passed the team's full test suite (924 tests). 1st place in the Badgers Building for Badgers track ($500) at UW Madison's Badger Build Fest 2026.
+- **ChalkPal**: a math whiteboard for live classes, made by a team of three. I built its PDF textbook library: say "problem 3.2" and that exact problem lands on the board. My changes passed the team's full test suite (924 tests). 1st place in the Badgers Building for Badgers track ($500) at UW-Madison's Badger Build Fest 2026.
 
 **Tools:** Python, TypeScript, SQL, PyTorch, OpenCV, pandas, Next.js, Streamlit, Databricks, Flutter, Claude and Gemini APIs, MCP
 
