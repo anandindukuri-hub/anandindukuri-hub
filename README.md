@@ -20,13 +20,17 @@ I'm a Computer Science and Data Science student at UW Madison, graduating in May
 
 <details><summary>Earlier work</summary>
 
-Casnet ([App Store](https://apps.apple.com/us/app/casnet/id6737266531)): a Flutter app for careers and volunteering with 2,300+ downloads, 23rd in Education on India's App Store at launch. Evertis: a Flutter app for sustainable living with 800+ downloads.
+Casnet ([App Store](https://apps.apple.com/us/app/casnet/id6737266531)): a Flutter app for careers and volunteering with 2,300+ downloads, 23rd in Education on India's App Store at launch. Evertis: a Flutter app for sustainable living with 800+ downloads. A menu chatbot for the restaurant Takeru, built with Flask and SQL during an apprenticeship with Gaurav Batra, a Microsoft employee.
 
 </details>
 
 <details><summary>Beyond code</summary>
 
-I founded Havera, a nonprofit that makes AI accessible to underprivileged children in India. I also founded Lectio, a nonprofit that brought 1,200+ books to 630+ students. I wrote the children's book *Mahavira, The Torchbearer* (243 copies sold) and co-organized a 5K run that raised $4,000.
+- Havera: I founded this nonprofit, which makes AI accessible to underprivileged children in India.
+- Lectio: I founded this nonprofit, which donated 1,200+ books to 630+ students at Hyderabad schools that teach in Telugu.
+- *Mahavira, The Torchbearer*: I wrote this children's book (243 copies sold).
+- A 5K run sponsored by AM Green: I was co-organizer and marketing head. I led 30 volunteers. The run drew 220+ participants and raised $4,000 for the Greenko Foundation.
+- An interschool video game fundraiser for the Maina Foundation: I was organizer and finance head. It raised $800.
 
 </details>
 
